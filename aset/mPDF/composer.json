@@ -1,0 +1,17 @@
+{
+    "name": "arief/mpdf",
+    "require": {
+        "mpdf/mpdf": "^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Arief\\Mpdf\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jihate12",
+            "email": "ariefshitery@gmail.com"
+        }
+    ]
+}
